@@ -1,0 +1,10 @@
+{
+  "description": "Connects users in Melbourne with on-demand delivery services, offering a seamless booking experience, live tracking, and driver ratings for efficient deliveries.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
